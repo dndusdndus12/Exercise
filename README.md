@@ -3,4 +3,4 @@ Exercise
 
 For DoiT Excersize
 
-hellow git~!
+goodbye git~!
